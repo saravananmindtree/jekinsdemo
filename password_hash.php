@@ -17,6 +17,6 @@ define('DRUPAL_ROOT', getcwd());
 require_once DRUPAL_ROOT . '/includes/bootstrap.inc';
 require_once 'includes/password.inc'; 
 drupal_bootstrap(DRUPAL_BOOTSTRAP_FULL);
-echo "SARAVANAN MINDTREE LOCALHOST JENKINS CHECK@%#^@%^ASKAJSKHJSJDHSJDHJHA# Encrypted Password goes here:";
+echo "SARAVANAN MINDTREE LOCALHOST K:AKL:A JsdsadsdsdasdasdENKINS CHECK@%#^@%^ASKAJSKHJSJDHSJDHJHA# Encrypted Password goes here:";
 echo user_hash_password('@dmin');
 exit();
